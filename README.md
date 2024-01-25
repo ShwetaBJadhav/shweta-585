@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shweta-585
+- 👀 I’m interested in new technology.
+- 🌱 I’m currently learning python & java.
